@@ -5,7 +5,6 @@
 .dockerignore
 
 node_modules
-
 __pycache__
 
 docker-compose.yml
